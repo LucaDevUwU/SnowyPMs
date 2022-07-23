@@ -1,0 +1,9 @@
+name: SnowyPMs
+version: '1.0'
+main: com.snowy.snowypm.Main
+api-version: 1.19
+authors: [ Snowy ]
+description: PM System
+commands:
+  msg:
+  r:
